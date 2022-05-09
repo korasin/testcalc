@@ -25,6 +25,6 @@ $(document).ready(function(){
     })
 })
 
-// function clere(){
-//     document.getElementById('clear'). reset()
+// function clearInput(){
+//    return clearInput
 // }
