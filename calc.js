@@ -24,3 +24,7 @@ $(document).ready(function(){
         // console.log(number1, number2);
     })
 })
+
+// function clere(){
+//     document.getElementById('clear'). reset()
+// }
