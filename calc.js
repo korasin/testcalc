@@ -20,7 +20,7 @@ $(document).ready(function(){
         var number1 = parseInt($('#add1').val());
         var number2= parseInt($('#add2').val());
         var result = add(number1, number2);
-        $('#output').text(result);
+        $('#result').text(result);
         // console.log(number1, number2);
     })
 })
